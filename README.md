@@ -20,7 +20,10 @@ Figure B shows the output when asked to interpret the diagnosis
 
 ## Algorithm
 
-* 
+* Input of the user's name to personalize the interaction
+* Choose from 3 options: 1. Define medical term 2. Interpret diagnosis 3. Exit
+* If 1. Enter one medical word, connect via API key to ULMS library, search the target word, extract the definition, and return as output to user.
+* If 2. Enter complex diagnosis, tokenize it. Word spot to the provided script, apply to a modified sentiment analyzer with boosted scores to coordinate with the      medical jargon, scale the compound sentiment scores into severity catogories and finally return an output summarizing score and comprehensible interpretation. 
 
 A flow diagram of the Diagnosis system chatbot
 
