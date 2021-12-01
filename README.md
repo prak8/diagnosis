@@ -1,1 +1,10 @@
-# diagnosis
+# Diagnosis
+
+## Project Information
+
+## Description of the problem to be solved 
+
+## An actual example of program output and usage
+
+## Algorithm
+
