@@ -13,10 +13,8 @@ The objective of this project attempts to simplify medical diagnosis, interpret 
 
 ## An actual example of program output and usage
 
-Figure A shows the output when asked to define medical terms
+![image](https://user-images.githubusercontent.com/91033884/144696251-0cc00bd8-a1c4-4384-8dc0-447e02861616.png)
 
-
-Figure B shows the output when asked to interpret the diagnosis
 
 ## Algorithm
 
